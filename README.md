@@ -165,7 +165,7 @@ python app.py
 kozlovalova на гитхабе
 почта - kozlova114930@gmail.com
 
-Ссылка на проект: 
+Ссылка на проект: https://github.com/kozlovalova/kozl.git
 
 ---
 ## 🤝 Как можно помочь проекту
@@ -176,4 +176,5 @@ kozlovalova на гитхабе
 3.  Закоммитьте изменения (`git commit -m 'Add some amazing feature'`)
 4.  Запушьте ветку (`git push origin feature/amazing-feature`)
 5.  Откройте Pull Request
+
 
